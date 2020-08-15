@@ -1,11 +1,8 @@
-Using clustering algorithm to segment customers
-Read the posts related to this project on Medium:
+#Using clustering algorithm to segment customers:
 
-Using machine learning to understand customers behavior
-How to measure distances in machine learning
-Introduction
+#Introduction
+
 Every person is different and so is their behavior as customers.
-
 Imagine you are the owner of a shop. It doesn't matter if you own an e-commerce or a supermarket. It doesn't matter if it is a small shop or a huge company such as Amazon or Netflix, it's better to know your customers.
 
 Machine learning comes in handy for this task. Particularly, clustering, the most important unsupervised learning problem, is able to create categories grouping similar individuals.
