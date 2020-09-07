@@ -27,7 +27,7 @@ The dataset contains data about customers from a Mall. The information gather is
 
 This repository contains two files:
 
-- `clustering_analysis.ipybn`: In this jupyter notebook, exploratory data analysis is performed. Moreover, the algorithm assumptions are checked. K-means is applied to segment customers obtaining a graph and the customer segments. It is also shown how to predict to which segment a new customers belongs to. 
+- `clustering_analysis.ipynb`: In this jupyter notebook, exploratory data analysis is performed. Moreover, the algorithm assumptions are checked. K-means is applied to segment customers obtaining a graph and the customer segments. It is also shown how to predict to which segment a new customers belongs to. 
 - `customers.csv` dataset used to perform the analysis.
 
 The whole analysis was done using JupyterLab and Python, using libraries such as: pandas, numpy, matplotlib, and scikit-learn.
